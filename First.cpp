@@ -1,7 +1,8 @@
 #include <iostream>
-using namespace std;
 int main()
 {
-    cout << "Hello C++";
+    int x = 10;
+    char b = 'a';
+    std::cout << "my age is" << std::endl << x;
     return 0;
 }

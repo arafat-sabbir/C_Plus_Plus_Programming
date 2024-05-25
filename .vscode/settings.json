@@ -6,6 +6,8 @@
     "new": "cpp",
     "istream": "cpp",
     "*.tcc": "cpp",
-    "list": "cpp"
+    "list": "cpp",
+    "typeindex": "cpp",
+    "typeinfo": "cpp"
   }
 }

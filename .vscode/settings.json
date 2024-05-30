@@ -8,6 +8,7 @@
     "*.tcc": "cpp",
     "list": "cpp",
     "typeindex": "cpp",
-    "typeinfo": "cpp"
+    "typeinfo": "cpp",
+    "system_error": "cpp"
   }
 }

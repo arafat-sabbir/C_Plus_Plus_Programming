@@ -1,0 +1,2 @@
+>>word;
+  cout<<word;
